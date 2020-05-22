@@ -1,0 +1,25 @@
+html {
+    background-color: #f1f1f1;
+}
+
+.content {
+    background-color: #f1f1f1;
+    padding-top: 2rem;
+}
+
+button {
+    margin: 15px;
+}
+
+label.required:after {
+    content: '*';
+    color: red;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
